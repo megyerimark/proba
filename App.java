@@ -1,8 +1,6 @@
-import java.net.PortUnreachableException;
-
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Interfész");
+        System.out.println("Legel");
 
         Pablo kecske = new Pablo();
         kecske.legel();
